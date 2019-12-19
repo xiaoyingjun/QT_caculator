@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>02013.wav</file>
+        <file>02020.wav</file>
+        <file>02025.wav</file>
+    </qresource>
+</RCC>

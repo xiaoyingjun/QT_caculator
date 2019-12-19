@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/myico">
+        <file>错误.bmp</file>
+        <file>错误2.bmp</file>
+    </qresource>
+</RCC>
